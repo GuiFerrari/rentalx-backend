@@ -1,0 +1,22 @@
+node_modules/
+coverage/
+dist/
+
+# tmp/*
+# !tmp/.gitkeep
+
+# !tmp/thumbs/.gitkeep
+# tmp/thumbs/*
+
+tmp/*
+!tmp/.gitkeep
+!tmp/thumbs
+tmp/thumbs/*
+!tmp/thumbs/.gitkeep
+!tmp/uploads
+tmp/uploads/*
+!tmp/uploads/.gitkeep
+
+.env
+
+ormconfig.json
